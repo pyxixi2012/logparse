@@ -48,7 +48,6 @@ config = [
 
 #flume server http source url
 #url = "http://172.16.0.146:50035/"
-url = "http://101.200.234.147:50004/"
 
 
 #匹配的错误信息关键字的正则表达式
